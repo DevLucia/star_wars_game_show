@@ -22,7 +22,7 @@ Code is structured in different folders:
 - `models`: contestant data model.
 - `routes`: routes available in the api, in this case only contestant routes.
 - `controllers`: controllers available, in this case to access and return contestant data when requested.
-- `config`: project config such as db and cors
+- `config`: project configuration
 
 ## Endpoints
 
